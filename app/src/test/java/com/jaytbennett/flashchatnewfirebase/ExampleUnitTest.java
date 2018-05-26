@@ -1,4 +1,4 @@
-package com.londonappbrewery.flashchatnewfirebase;
+package com.jaytbennett.flashchatnewfirebase;
 
 import org.junit.Test;
 
